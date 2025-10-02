@@ -18,3 +18,10 @@ def REPEL(a):
     for j in a:
        worsefinalstr += str(j) + "   "
     return worsefinalstr
+
+if __name__ == "__maine__":
+    rotate()
+    crash()
+    magnet()
+    repel()
+    REPEL()
