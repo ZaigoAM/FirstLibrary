@@ -1,8 +1,7 @@
 All the projects here are made by Adivesh Mishra.
-All names and words used are just by accident if they relate to someone in real life.
+No names used in my projects are a reference to any person, dead or alive. All occurences of such are only a coincidence.
 
-Pokemon, don't sue me please.
 
-I stand to gain no money from these projects.
+No AI was used in any project, but AI did assist in teaching me and directing me to the most relevant resources. (eg. I couldn't understand pointers in the beginning)
 
-No AI was used to make any of this, though documents and references were used to refer from to build them. (eg. I couldn't understand pointers in the beginning)
+
