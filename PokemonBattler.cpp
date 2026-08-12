@@ -200,9 +200,9 @@ int main(){
         Move("Capture", "Grass",10, "ATK_DOWN", 30)
     };
 
-    Pokemon p1("Angestile", "Grass");
-    Pokemon p2("Darjaninja", "Water");
-    Pokemon p3("Adiveshizard", "Fire");
+    Pokemon p1("Astile", "Grass");
+    Pokemon p2("Dinja", "Water");
+    Pokemon p3("Aizard", "Fire");
 
     p1.assignmoves(neutralmovepool, firemovepool, watermovepool, grassmovepool, gen);
     p2.assignmoves(neutralmovepool, firemovepool, watermovepool, grassmovepool, gen);
